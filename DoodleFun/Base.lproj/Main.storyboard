@@ -44,6 +44,9 @@
                         </cells>
                     </collectionView>
                     <navigationItem key="navigationItem" title="Doodle Fun" id="pzi-Hh-NO2"/>
+                    <connections>
+                        <outlet property="collectionView" destination="gx0-JF-M1i" id="8Qh-Za-wYR"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
